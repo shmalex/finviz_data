@@ -1,0 +1,412 @@
+{
+    "Index": [
+        "S&P 500",
+        "-",
+        "DJIA S&P500"
+    ],
+    "P/E": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS (ttm)": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Insider Own": [
+        "Decimal",
+        "-"
+    ],
+    "Shs Outstand": [
+        "Float Number M",
+        "Float Number B",
+        "-"
+    ],
+    "Perf Week": [
+        "Decimal",
+        "-"
+    ],
+    "Market Cap": [
+        "Float Number B",
+        "Float Number M",
+        "-"
+    ],
+    "Forward P/E": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS next Y": [
+        "Decimal",
+        "-"
+    ],
+    "Insider Trans": [
+        "Decimal",
+        "-"
+    ],
+    "Shs Float": [
+        "Float Number M",
+        "Float Number B",
+        "-"
+    ],
+    "Perf Month": [
+        "Decimal",
+        "-"
+    ],
+    "Income": [
+        "Float Number B",
+        "Float Number M",
+        "-"
+    ],
+    "PEG": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS next Q": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Inst Own": [
+        "Decimal",
+        "-"
+    ],
+    "Short Float": [
+        "Decimal",
+        "-"
+    ],
+    "Perf Quarter": [
+        "Decimal",
+        "-"
+    ],
+    "Sales": [
+        "Float Number B",
+        "Float Number M",
+        "-"
+    ],
+    "P/S": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS this Y": [
+        "Decimal",
+        "-"
+    ],
+    "Inst Trans": [
+        "Decimal",
+        "-"
+    ],
+    "Short Ratio": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Perf Half Y": [
+        "Decimal",
+        "-"
+    ],
+    "Book/sh": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "P/B": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "ROA": [
+        "Decimal",
+        "-"
+    ],
+    "Target Price": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Perf Year": [
+        "Decimal",
+        "-"
+    ],
+    "Cash/sh": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "P/C": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS next 5Y": [
+        "Decimal",
+        "-"
+    ],
+    "ROE": [
+        "Decimal",
+        "-"
+    ],
+    "52W Range": [
+        "Range (Float)"
+    ],
+    "Perf YTD": [
+        "Decimal",
+        "-"
+    ],
+    "Dividend": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "P/FCF": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "EPS past 5Y": [
+        "Decimal",
+        "-"
+    ],
+    "ROI": [
+        "Decimal",
+        "-"
+    ],
+    "52W High": [
+        "Decimal",
+        "-"
+    ],
+    "Beta": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Dividend %": [
+        "Decimal",
+        "-"
+    ],
+    "Quick Ratio": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Sales past 5Y": [
+        "Decimal",
+        "-"
+    ],
+    "Gross Margin": [
+        "Decimal",
+        "-"
+    ],
+    "52W Low": [
+        "Decimal",
+        "-"
+    ],
+    "ATR": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Employees": [
+        "Integer number",
+        "-"
+    ],
+    "Current Ratio": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Sales Q/Q": [
+        "Decimal",
+        "-"
+    ],
+    "Oper. Margin": [
+        "Decimal",
+        "-"
+    ],
+    "RSI (14)": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Volatility": [
+        "Decimal",
+        "Float Number -"
+    ],
+    "Optionable": [
+        "Yes Boolean",
+        "No Boolean"
+    ],
+    "Debt/Eq": [
+        "Integer number",
+        "Float number",
+        "-"
+    ],
+    "EPS Q/Q": [
+        "Decimal",
+        "-"
+    ],
+    "Profit Margin": [
+        "Decimal",
+        "-"
+    ],
+    "Rel Volume": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Prev Close": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Shortable": [
+        "Yes Boolean",
+        "No Boolean"
+    ],
+    "LT Debt/Eq": [
+        "Float number",
+        "-",
+        "Integer number"
+    ],
+    "Earnings": [
+        "Float Number C",
+        "-",
+        "Float Number O",
+        "Apr 22",
+        "Mar 19",
+        "May 01",
+        "Mar 27",
+        "Mar 21",
+        "Mar 11",
+        "Feb 27",
+        "May 09",
+        "May 14",
+        "Feb 20",
+        "May 13",
+        "Mar 28",
+        "Jan 17",
+        "Mar 18",
+        "Apr 05",
+        "Mar 26",
+        "Apr 30",
+        "May 06",
+        "Feb 26",
+        "May 15",
+        "Apr 19",
+        "May 02",
+        "Apr 16",
+        "Mar 14",
+        "Mar 07",
+        "Apr 03",
+        "Apr 11",
+        "May 08",
+        "Apr 17",
+        "Mar 15",
+        "Mar 06",
+        "Apr 01",
+        "Apr 04",
+        "Apr 23",
+        "Feb 28",
+        "Mar 08",
+        "Feb 25",
+        "May 16",
+        "Mar 13",
+        "Apr 24",
+        "Apr 15",
+        "May 10",
+        "Apr 02",
+        "Apr 08",
+        "Apr 29",
+        "May 07",
+        "Mar 05",
+        "Mar 29",
+        "Mar 01",
+        "Apr 09",
+        "Feb 19",
+        "Mar 25",
+        "Apr 25",
+        "May 17",
+        "Jan 24",
+        "Feb 22",
+        "Feb 13",
+        "Apr 26",
+        "Feb 21",
+        "Mar 20",
+        "Mar 12",
+        "Apr 12",
+        "May 03",
+        "Feb 11",
+        "Feb 06",
+        "Apr 10",
+        "Mar 04",
+        "Apr 18",
+        "May 28",
+        "May 31",
+        "May 21",
+        "May 30",
+        "May 29",
+        "May 23",
+        "May 20",
+        "May 24",
+        "Jun 03",
+        "May 22",
+        "Jun 06",
+        "Jun 07",
+        "Jun 10",
+        "Jun 13",
+        "Jun 11",
+        "Jun 18",
+        "Jun 12",
+        "Jun 17",
+        "Jun 19",
+        "Jul 01",
+        "Jun 28",
+        "Jun 04",
+        "Jul 08",
+        "Jun 05",
+        "Jun 27",
+        "Jun 26"
+    ],
+    "Payout": [
+        "Decimal",
+        "-"
+    ],
+    "Avg Volume": [
+        "Float Number M",
+        "Float Number K",
+        "-"
+    ],
+    "Price": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "Recom": [
+        "Float number",
+        "Integer number",
+        "-"
+    ],
+    "SMA20": [
+        "Decimal",
+        "-"
+    ],
+    "SMA50": [
+        "Decimal",
+        "-"
+    ],
+    "SMA200": [
+        "Decimal",
+        "-"
+    ],
+    "Volume": [
+        "Integer number",
+        "-"
+    ],
+    "Change": [
+        "Decimal",
+        "-"
+    ]
+}
