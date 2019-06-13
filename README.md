@@ -7,7 +7,7 @@ This repository collects technical data for stocks with help of https://github.c
 run git-commit.cmd to test
 
 Data is organized in folders
-/DATE/[a-z]/[<stock_name>].json
+data/[<date>]/[a-z]/[<stock_name>].json
 
 JSON files contains scraped table from finviz.com page, for example
 
