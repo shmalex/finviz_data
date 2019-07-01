@@ -1,4 +1,4 @@
-cd ../mybdds
+cd ../bigDataScience
 bash run-loader.sh
 bash run-loader.sh
 bash run-loader.sh
