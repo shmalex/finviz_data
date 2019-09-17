@@ -7,6 +7,7 @@ About project
 This repository contains daily information from https://finviz.com/ stock screener
 
 This repository collects technical data for stocks with help of https://github.com/Winchess1/bigDataScience loader.
+
 .. code:: bash
 
    run git-commit.cmd
