@@ -37,3 +37,8 @@ is stored like:
     "Change": "-0.79%"
 }
 ```
+
+*You can also buy me a coffee!*
+
+.. image:: http://rickrduncan.com/wp-content/uploads/2017/11/buy-me-coffee-paypal.png
+        :target: https://paypal.me/ishmalex
